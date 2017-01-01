@@ -1,5 +1,10 @@
 # README
 
+This is a project that involves building a junior version of [Reddit](https://www.reddit.com/). 
+
+Please see [The Odin Project](http://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record) for more information on this project.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
